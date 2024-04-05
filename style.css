@@ -1,0 +1,11 @@
+body {
+    background: -webkit-linear-gradient(90deg, #b7d233,#ff4b61,#0f53cd);
+    text-align: center;  
+    margin: 0;
+    min-height: 100vh;                       
+}
+
+img {
+    width: 750px;
+    margin: 0 auto;
+}
