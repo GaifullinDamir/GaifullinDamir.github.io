@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background: url("../assets/cherry.jpg") cover center no-repeat;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 24px;
+}
