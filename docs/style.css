@@ -3,12 +3,22 @@ body {
     background: url("https://cdn.tvspb.ru/storage/wp-content/uploads/2023/06/joanna-kosinska-_xn7ubcz33i-unsplash-scaled.jpg__0_0x0.jpg") cover;
     color: #ffffff;
     font-family: sans-serif;
+    min-height: 100vh;
 }
 
 h1 {
     font-size: 36px;
+    text-align: center;
 }
 
 p {
     font-size: 24px;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    border: 1px solid #ffffff;
+    border-radius: 11px;
 }
