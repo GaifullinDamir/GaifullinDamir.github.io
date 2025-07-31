@@ -1,0 +1,14 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip3_159">
+			<rect id="Navigation / Compass" rx="0.000000" width="30.666666" height="30.666666" transform="translate(8.666667 8.666667)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Background" rx="13.500000" width="47.000000" height="47.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip3_159)">
+		<path id="Vector" d="M12 24C12 17.37 17.37 12 24 12C30.62 12 36 17.37 36 24C36 30.62 30.62 36 24 36C17.37 36 12 30.62 12 24ZM22 22L18.66 29.33L26 26L29.33 18.66L22 22Z" stroke="#007AFF" stroke-opacity="1.000000" stroke-width="2.666667" stroke-linejoin="round"/>
+	</g>
+</svg>

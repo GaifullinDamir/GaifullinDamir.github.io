@@ -1,0 +1,21 @@
+<svg width="26.265625" height="26.265625" viewBox="0 0 26.2656 26.2656" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip10_48644">
+			<rect id="App Icon Grid" rx="7.034344" width="26.106039" height="26.106039" transform="translate(0.078633 0.078633)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="13.131653" y1="0.000000" x2="13.131653" y2="32.566498" id="paint_linear_10_48644_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#03B0FF"/>
+			<stop offset="0.504808" stop-color="#0686FF"/>
+			<stop offset="1.000000" stop-color="#0C88FA"/>
+		</linearGradient>
+	</defs>
+	<rect id="App Icon Grid" rx="7.034344" width="26.106039" height="26.106039" transform="translate(0.078633 0.078633)" fill="url(#paint_linear_10_48644_0)" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip10_48644)">
+		<path id="Rectangle 1268" d="M8.25 13.57L12.67 13.57L12.67 17.99C12.67 20.42 10.68 22.41 8.25 22.41C5.8 22.41 3.82 20.42 3.82 17.99C3.82 15.54 5.8 13.57 8.25 13.57Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Rectangle 1269" d="M8.25 3.73C10.68 3.73 12.67 5.71 12.67 8.15C12.67 10.59 10.68 12.57 8.25 12.57C5.8 12.57 3.82 10.59 3.82 8.15C3.82 5.71 5.8 3.73 8.25 3.73Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Rectangle 1270" d="M13.91 3.73C18.31 3.73 21.88 7.3 21.88 11.7L21.88 22.41C17.48 22.41 13.91 18.84 13.91 14.44L13.91 3.73Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
